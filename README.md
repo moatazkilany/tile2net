@@ -1,2 +1,2 @@
 # Tile2Net
-A tool for automated mapping of pedestrian network using aerial imagery tiles. 
+Automated mapping of pedestrian network using aerial imagery tiles. The codes will be available soon! 
