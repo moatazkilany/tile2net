@@ -1,4 +1,4 @@
-# Tile2Net - Coming March 1st! 
+# Tile2Net - Coming VERY soon! 
 
 Tile2Net is an end-to-end tool for automated mapping of pedestrian infrastructure using aerial imagery. We trained a semantic segmentation model to detect roads, sidewalk, crosswalk, and footpath from orthorectified imagery. The results are then converted to geo-referenced polygons and finally a topologically interconnected centerline network will be generated. This work is as an important step towards a robust and open-source framework that enables comprehensive digitization of pedestrian infrastructure, which we argue to be a key missing link to more accurate and reliable pedestrian modeling and analyses. By offering low-cost solutions to create planimetric dataset describing pedestrian environment we enable less resourceful cities to create datasets describing pedestrian environment which otherwise would not be possible at a comparable cost and time.
 
